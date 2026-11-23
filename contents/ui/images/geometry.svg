@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" stroke="#808080" stroke-width="1.2">
+  <!-- Subtle eight-point star (two overlapping squares) with concentric rings.
+       Rendered at very low opacity as a hero accent; the widget theme provides
+       all real color, so a neutral stroke reads in both light and dark schemes. -->
+  <circle cx="100" cy="100" r="96"/>
+  <circle cx="100" cy="100" r="58"/>
+  <rect x="32" y="32" width="136" height="136"/>
+  <rect x="32" y="32" width="136" height="136" transform="rotate(45 100 100)"/>
+  <circle cx="100" cy="100" r="20"/>
+</svg>

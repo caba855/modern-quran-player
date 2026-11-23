@@ -1,0 +1,20 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "KPlugin": {
+    "Id": "com.modernquranplayer",
+    "Name": "Modern Quran Player",
+    "Description": "Audio-focused Quran player widget for KDE Plasma 6.",
+    "Icon": "multimedia-audio-player",
+    "Version": "3.2.0",
+    "Category": "Multimedia",
+    "License": "Apache-2.0",
+    "Website": "https://github.com/caba855?tab=repositories",
+    "Authors": [
+      {
+        "Name": "caba855"
+      }
+    ]
+  },
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "X-Plasma-MainScript": "ui/main.qml"
+}

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0 http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <kcfgfile name=""/>
+  <group name="General">
+    <entry name="selectedSurah" type="Int">
+      <default>1</default>
+    </entry>
+    <entry name="startAyah" type="Int">
+      <default>1</default>
+    </entry>
+    <entry name="endAyah" type="Int">
+      <default>7</default>
+    </entry>
+    <entry name="selectedReciterId" type="String">
+      <default>curated:alafasy</default>
+    </entry>
+    <entry name="playbackMode" type="Int">
+      <default>0</default>
+    </entry>
+    <entry name="repeatMode" type="Int">
+      <default>0</default>
+    </entry>
+    <entry name="ayahRepeatTarget" type="Int">
+      <default>1</default>
+    </entry>
+    <entry name="volume" type="Double">
+      <default>0.85</default>
+    </entry>
+    <entry name="uiScale" type="Double">
+      <default>1.0</default>
+    </entry>
+    <entry name="abLoopEnabled" type="Bool">
+      <default>false</default>
+    </entry>
+    <entry name="abStartMs" type="Int">
+      <default>-1</default>
+    </entry>
+    <entry name="abEndMs" type="Int">
+      <default>-1</default>
+    </entry>
+    <entry name="sleepRemainingMinutes" type="Int">
+      <default>0</default>
+    </entry>
+    <entry name="showControls" type="Bool">
+      <default>true</default>
+    </entry>
+    <entry name="showTranslation" type="Bool">
+      <default>false</default>
+    </entry>
+    <entry name="pinned" type="Bool">
+      <default>false</default>
+    </entry>
+    <!-- Bridge between the configuration dialog and the running widget. The
+         dialog is a separate QML context, so it talks to the player through
+         these keys: `cmd` carries commands in, the others mirror state out. -->
+    <entry name="cmd" type="String">
+      <default></default>
+    </entry>
+    <entry name="nowPlaying" type="String">
+      <default></default>
+    </entry>
+    <entry name="reciterListJson" type="String">
+      <default></default>
+    </entry>
+    <entry name="libraryJson" type="String">
+      <default></default>
+    </entry>
+    <entry name="migratedToConfig" type="Bool">
+      <default>false</default>
+    </entry>
+  </group>
+</kcfg>
