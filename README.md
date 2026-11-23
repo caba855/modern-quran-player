@@ -151,7 +151,7 @@ Apache License 2.0.
 This project is a fork of the original Quran Player:
 
 
-- **Original repository:** [Original GitHub Repository](Phttps://github.com/mymuhyo/kde-widget-quran)
+- **Original repository:** [Original GitHub Repository](https://github.com/mymuhyo/kde-widget-quran)
 
 This fork builds upon the original project with additional features,
 improvements and a redesigned interface.
