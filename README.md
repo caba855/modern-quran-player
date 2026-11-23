@@ -6,6 +6,15 @@ Modern Quran Player is a feature-rich Plasma widget designed to bring Quran audi
 
 The widget features a dedicated listening panel alongside a beautifully designed Quran player, with Arabic Ayah display, optional English translation and convenient playback controls.
 
+## 📸 Screenshots
+
+### Main Quran Player
+![Modern Quran Player](screenshots/main-player.png)
+
+### Listening Panel
+![Listening Panel](screenshots/listening-panel.png)
+
+
 ## ✨ Features
 
 ### 🎧 Quran Audio Player
