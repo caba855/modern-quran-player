@@ -1,4 +1,4 @@
-# ☪ Modern Quran Player
+# ☪ Modern Quran Player - KDE plasma Widget
 
 **A modern Quran listening experience for KDE Plasma 6.**
 
@@ -146,5 +146,14 @@ Thanks to the Quran.com and EveryAyah services for providing Quran data and audi
 Apache License 2.0.
 
 ---
+## 🔗 Original Project
+
+This project is a fork of the original Quran Player:
+
+
+- **Original repository:** [Original GitHub Repository](Phttps://github.com/mymuhyo/kde-widget-quran)
+
+This fork builds upon the original project with additional features,
+improvements and a redesigned interface.
 
 **Modern Quran Player — Bring Quran listening to your KDE desktop.**
